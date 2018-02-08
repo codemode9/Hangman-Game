@@ -1,0 +1,29 @@
+body{
+    background: url(../images/hang.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+    background-size: 100% 100%;
+}
+.hangman {
+    font-family: 'Amatic SC', cursive;
+    color: crimson;
+}
+.halloween {
+    color: greenyellow;
+    font-family: 'Butcherman', cursive;
+    transform: rotate(-7deg);
+}
+.panel {
+    background: greenyellow;
+}
+.panel-title {
+    text-align: center;
+    color: crimson;
+    font-family: 'Butcherman' , cursive;
+}
+.panel-body {
+    color: crimson;
+    font-family: 'Butcherman' , cursive;
+}
