@@ -9,21 +9,28 @@ body{
 .hangman {
     font-family: 'Amatic SC', cursive;
     color: crimson;
+    font-size: 100px;
 }
 .halloween {
     color: greenyellow;
     font-family: 'Butcherman', cursive;
     transform: rotate(-7deg);
+    font-size: 75px;
+    float: right;
 }
 .panel {
     background: greenyellow;
+    width: 600px;
+    height: 600px;
 }
 .panel-title {
     text-align: center;
     color: crimson;
     font-family: 'Butcherman' , cursive;
+    font-size: 50px;
 }
 .panel-body {
     color: crimson;
     font-family: 'Butcherman' , cursive;
+    font-size: 80px;
 }
